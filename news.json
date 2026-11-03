@@ -1,0 +1,26 @@
+[
+  {
+    "category": "tollywood",
+    "title": "Game Changer shoot wrapped up with massive climax action sequence",
+    "type": "Shooting Update",
+    "date": "Nov 3, 2026",
+    "summary": "Director Shankar has officially wrapped the final schedule. Post-production visual effects are moving at a rapid pace for the upcoming release.",
+    "badgeColor": "bg-amber-500/10 text-amber-400 border-amber-500/20"
+  },
+  {
+    "category": "bollywood",
+    "title": "Pathaan 2 pre-production kicks off with high-octane international script",
+    "type": "Next Project",
+    "date": "Nov 3, 2026",
+    "summary": "YRF has locked the script. Shah Rukh Khan is slated to begin physical training regimens starting next month ahead of the floor dates.",
+    "badgeColor": "bg-emerald-500/10 text-emerald-400 border-emerald-500/20"
+  },
+  {
+    "category": "hollywood",
+    "title": "Avatar 4 milestone: Box Office projections and production status",
+    "type": "Box Office / Shoot",
+    "date": "Nov 3, 2026",
+    "summary": "James Cameron confirms groundbreaking underwater performance capture techniques completed ahead of schedule, setting up a massive holiday window.",
+    "badgeColor": "bg-cyan-500/10 text-cyan-400 border-cyan-500/20"
+  }
+]
