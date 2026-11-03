@@ -1,0 +1,50 @@
+[
+  {
+    "category": "tollywood",
+    "title": "Venkatesh's 'Aadarsha Kutumbam' (AK 47) dominates weekend box office",
+    "type": "Box Office",
+    "date": "Nov 3, 2026",
+    "summary": "Venkatesh's latest family entertainer AK 47 has taken the box office by storm, securing strong collections and emerging as a major weekend performer across Telugu states.",
+    "badgeColor": "bg-amber-500/10 text-amber-400 border-amber-500/20"
+  },
+  {
+    "category": "tollywood",
+    "title": "Prashanth Neel confirms Salaar 2 floor dates",
+    "type": "Shooting Update",
+    "date": "Nov 3, 2026",
+    "summary": "Director Prashanth Neel has officially announced that filming for the much-awaited sequel 'Salaar 2' starring Prabhas will resume full-fledged shooting schedules by June next year.",
+    "badgeColor": "bg-amber-500/10 text-amber-400 border-amber-500/20"
+  },
+  {
+    "category": "bollywood",
+    "title": "Ayushmann Khurrana and Sharvari gearing up for 'Yeh Prem Mol Liya'",
+    "type": "Next Project",
+    "date": "Nov 3, 2026",
+    "summary": "Sooraj Barjatya's upcoming directorial venture starring Ayushmann Khurrana and Sharvari locks its theatrical release date for late November, promising a grand family drama.",
+    "badgeColor": "bg-emerald-500/10 text-emerald-400 border-emerald-500/20"
+  },
+  {
+    "category": "bollywood",
+    "title": "Emraan Hashmi's 'Gunmaaster G9' trailer builds heavy action hype",
+    "type": "Shooting Update",
+    "date": "Nov 3, 2026",
+    "summary": "Directed by Aditya Datt, the high-octane action thriller starring Emraan Hashmi and Genelia Deshmukh has finalized its post-production ahead of its November end release.",
+    "badgeColor": "bg-emerald-500/10 text-emerald-400 border-emerald-500/20"
+  },
+  {
+    "category": "hollywood",
+    "title": "'Godzilla Minus Zero' set to roar into global theaters",
+    "type": "Release Date",
+    "date": "Nov 3, 2026",
+    "summary": "The sci-fi monster franchise returns with massive IMAX bookings locked in for its upcoming weekend premiere, drawing massive advance ticket sales.",
+    "badgeColor": "bg-cyan-500/10 text-cyan-400 border-cyan-500/20"
+  },
+  {
+    "category": "hollywood",
+    "title": "'The Hunger Games: Sunrise on the Reaping' preps for November block",
+    "type": "Next Project",
+    "date": "Nov 3, 2026",
+    "summary": "Lionsgate ramps up promotional campaigns for the latest prequel installment in the Hunger Games franchise, tracking massive box office openings for later this month.",
+    "badgeColor": "bg-cyan-500/10 text-cyan-400 border-cyan-500/20"
+  }
+]
